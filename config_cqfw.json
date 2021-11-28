@@ -1,0 +1,10 @@
+{
+    "cqfw": {
+        "city": "longkou",
+        "user_worksapce": "E:\\01Projects\\cqfw.gdb",
+        "dltb": "DLTB2020",
+        "bx_hx": "E:\\01Projects\\66Longkou\\02Achie\\CQFW_IN_OUT1.csv",
+        "area_limit": 100,
+        "zuge": "zuge"
+    }
+}
